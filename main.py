@@ -1,5 +1,4 @@
 import os
-from pytube import YouTube
 import tkinter as tk
 from tkinter import ttk
 from tkinter import font as tkfont
